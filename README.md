@@ -1,1 +1,1 @@
-# ex001
+este é o meu primeiro exercicio e estou fazendo as aulas do curso em video cujo professor é o Gustavo Guanabara
